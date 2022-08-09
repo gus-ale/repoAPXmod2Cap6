@@ -69,5 +69,6 @@ function testClaseEdificio() {
   
   function main() {
     testClaseEdificio();
+      console.log("vino Pepe y se mando una cagada en el codigo");
   }
   main();
